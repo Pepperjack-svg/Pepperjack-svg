@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA** me56KJF.6vszwqy
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **kishore.cyberhakz@gmail.com**
 
