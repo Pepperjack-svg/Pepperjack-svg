@@ -70,16 +70,3 @@ class Developer:
 ![Tokyo Night Streak](https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg\&theme=tokyonight\&hide_border=true\&background=1A1B26\&stroke=BB9AF7\&ring=7AA2F7\&fire=9ECE6A\&currStreakNum=7DCFFF)
 
 </div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26)](https://www.linkedin.com/in/pepper-jack/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26)](mailto:kishore.cyberhakz@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b26)](https://twitter.com/your_twitter_handle)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1a1b26)](https://reddit.com/user/your_reddit_username)
-
-</div>
