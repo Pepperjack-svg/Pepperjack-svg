@@ -1,84 +1,86 @@
-<!-- Tokyo Night Theme Inspired GitHub Profile README -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=7DCFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kishore.S;A+Passionate+Developer+From+India!" alt="Typing SVG" />
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Tokyo Night Banner"/>
 </div>
 
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  @keyframes blink-caret {
+    50% { border-color: transparent }
+  }
+  .typing-effect {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid #ff79c6;
+    animation:
+      typing 3s steps(20, end),
+      blink-caret 0.75s step-end infinite;
+    font-weight: 700;
+    font-size: 2.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: #7aa2f7;
+    max-width: fit-content;
+    margin: 20px auto 40px auto;
+  }
+</style>
+
+<h1 class="typing-effect" align="center">Hi there! I'm Kishore.S</h1>
+
+---
+
+### About Me
+
+> Hello, I'm Kishore.S, a dedicated B.E. Computer Science student at Anand Institute of Higher Technology. I'm passionate about Python programming and proud to be a member of CyberHakz. Together, we're exploring the exciting world of technology and cybersecurity.
+
+---
+
+### Connect with Me
+
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
-</div>
-
----
-
-### 🧠 Currently Exploring
-- Java & Spring Boot  
-- Backend Development  
-- Automation and AI Tools  
-
----
-
-### 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:kishore.cyberhakz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7DCFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pepper-jack/" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/pepper-jack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/pepper_jack___" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
   </a>
-  <a href="https://instagram.com/pepper_jack___" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-7DCFFF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/HBw5frZMN7" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7DCFFF?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.gg/HBw5frZMN7" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="40" height="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### Tech Stack & Tools
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40" alt="Flask" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="Selenium" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" height="40" alt="Unreal Engine" />
+<p align="left" style="max-width: 600px; margin: auto;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Linode_logo.svg" alt="Linode" width="40" height="40" style="background:#000; border-radius:5px; padding:4px; margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40" style="fill:#FF9900; margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 5px;"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats (Tokyo Night Style)
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pepperjack-svg&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepperjack-svg&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg&theme=tokyonight" height="180" />
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pepperjack-svg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pepperjack-svg&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px;"/>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pepperjack-svg&label=Profile%20views&color=7DCFFF&style=flat" alt="pepperjack-svg" />
+<p align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=pepperjack-svg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
