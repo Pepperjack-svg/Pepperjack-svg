@@ -1,61 +1,84 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Pepperjack-svg)
+<!-- Tokyo Night Theme Inspired GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Kishore.S</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=7DCFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kishore.S;A+Passionate+Developer+From+India!" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFldjRneHBjMWJtcXZnMmJ0anU5OTZwdHB3a3h4dTJiZmR0ZGVqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pepperjack-svg&label=Profile%20views&color=0e75b6&style=flat" alt="pepperjack-svg" />
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" />
 </p>
 
-- 🌱 I’m currently learning **JAVA**  
-- 📫 How to reach me: **kishore.cyberhakz@gmail.com**
+<div align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pepper-jack/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/pepper_jack___" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/HBw5frZMN7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+### 🧠 Currently Exploring
+- Java & Spring Boot  
+- Backend Development  
+- Automation and AI Tools  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 📫 Contact Me
+
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/></a>
+  <a href="mailto:kishore.cyberhakz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7DCFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pepper-jack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/pepper_jack___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-7DCFFF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/HBw5frZMN7" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7DCFFF?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pepperjack-svg&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40" alt="Flask" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="Selenium" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" alt="Unity" />
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" height="40" alt="Unreal Engine" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pepperjack-svg&show_icons=true&locale=en" alt="GitHub Stats" />
+
+---
+
+### 📊 GitHub Stats (Tokyo Night Style)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pepperjack-svg&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepperjack-svg&layout=compact&theme=tokyonight" height="180" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pepperjack-svg&label=Profile%20views&color=7DCFFF&style=flat" alt="pepperjack-svg" />
 </p>
