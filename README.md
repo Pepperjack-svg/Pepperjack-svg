@@ -1,32 +1,33 @@
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Tokyo Night Banner"/>
-</div>
+
+![Tokyo Night Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    50% { border-color: transparent }
-  }
-  .typing-effect {
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid #ff79c6;
-    animation:
-      typing 3s steps(20, end),
-      blink-caret 0.75s step-end infinite;
-    font-weight: 700;
-    font-size: 2.5rem;
-    font-family: 'Courier New', Courier, monospace;
-    color: #7aa2f7;
-    max-width: fit-content;
-    margin: 20px auto 40px auto;
-  }
+@keyframes typing {
+  from { width: 0 }
+  to { width: 23ch }
+}
+.typed-name {
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: 'Courier New', Courier, monospace;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 4px solid #7fdbca;
+  width: 23ch;
+  animation: typing 3s steps(23), blink-caret 0.75s step-end infinite;
+  margin: 0 auto 20px;
+  color: #7fdbca;
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #7fdbca }
+}
 </style>
 
-<h1 class="typing-effect" align="center">Hi there! I'm Kishore.S</h1>
+<div class="typed-name">Hi there! I'm Kishore.S</div>
+
+</div>
 
 ---
 
@@ -54,7 +55,7 @@
 
 ### Tech Stack & Tools
 
-<p align="left" style="max-width: 600px; margin: auto;">
+<p align="center" style="max-width: 650px; margin: auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 5px;"/>
