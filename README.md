@@ -86,5 +86,3 @@ class Developer:
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=pepperjack-svg&color=bb9af7&style=flat-square" alt="Profile views"/>
 </div>
-```
-
