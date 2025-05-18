@@ -17,7 +17,7 @@
 This is Kishore S, a dedicated B.E. Computer Science student at Anand Institute of Higher Technology. I'm passionate about Python programming and proud to be a member of CyberHakz. Together, we're exploring the exciting world of technology and cybersecurity.
 
 ```python
-class TokyoNightDeveloper:
+class Developer:
     def __init__(self):
         self.name = "Kishore S"
         self.role = "B.E. Computer Science"
