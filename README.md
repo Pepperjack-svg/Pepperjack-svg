@@ -3,18 +3,16 @@
 </div>
 
 <h1 align="center" style="color: #bb9af7;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRldm1peXgxZm96ZWZwY3FleTcxaWVkMW52dTVvMGZya2Vpam04aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qz9jVV6CiRSuI/giphy.gif" width="30px"/>
   Hi, I'm Kishore S
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRldm1peXgxZm96ZWZwY3FleTcxaWVkMW52dTVvMGZya2Vpam04aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qz9jVV6CiRSuI/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center" style="color: #7dcfff;">Computer Science Student | Python Developer</h3>
+<!--<h3 align="center" style="color: #7dcfff;">Computer Science Student | Python Developer</h3>-->
 
 ## 👨‍💻 About Me
 
 💻 I'm particularly skilled in **Python development**, and I'm currently diving deep into **cloud computing**, **web development**, and **automation**. Whether it’s scripting, backend logic, or deploying apps on the cloud—I'm all in!
-
-🛠️ I love working on real-world projects that combine technology with impact. From tinkering with microcontrollers to deploying full-stack web apps, I enjoy the entire development lifecycle.
 
 🌱 Currently exploring:
 - Cloud platforms like **AWS**, **Oracle**, **Linode**
@@ -49,7 +47,7 @@ class Developer:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<!--<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>-->
 
 ---
 
@@ -58,7 +56,6 @@ class Developer:
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" alt="Linode"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 
@@ -66,11 +63,13 @@ class Developer:
 
 ### 🛠️ Tools & Platforms  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Mysql-2496ED?style=for-the-badge&logo=mysql&logoColor=white" alt="VSCode" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
 
 ---
 
