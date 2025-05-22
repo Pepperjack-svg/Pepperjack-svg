@@ -10,11 +10,19 @@
 
 <h3 align="center" style="color: #7dcfff;">Computer Science Student | Python Developer</h3>
 
----
-
 ## 👨‍💻 About Me
 
-This is Kishore S, a dedicated B.E. Computer Science student at Anand Institute of Higher Technology. I'm passionate about Python programming and proud to be a member of CyberHakz. Together, we're exploring the exciting world of technology and cybersecurity.
+💻 I'm particularly skilled in **Python development**, and I'm currently diving deep into **cloud computing**, **web development**, and **automation**. Whether it’s scripting, backend logic, or deploying apps on the cloud—I'm all in!
+
+🛠️ I love working on real-world projects that combine technology with impact. From tinkering with microcontrollers to deploying full-stack web apps, I enjoy the entire development lifecycle.
+
+🌱 Currently exploring:
+- Cloud platforms like **AWS**, **Oracle**, **Linode**
+- Backend frameworks like **Flask** & **Django**
+- Containers & DevOps tools like **Docker** and **Nginx**
+- IoT with **Arduino**, **ESP32**, and **LoRa**
+
+🌐 Let’s build something meaningful together and make tech fun, secure, and accessible!
 
 ```python
 class Developer:
@@ -23,37 +31,53 @@ class Developer:
         self.role = "B.E. Computer Science"
         self.organization = "CyberHakz"
         self.location = "India"
-        self.focus = ["Python", "Cloud", "Web Dev"]
-        
+        self.focus = ["Python", "Cloud", "Web Dev", "Cybersecurity"]
+
     def __str__(self):
         return f"{self.name} | {self.role} at {self.organization}"
-````
+```
 
----
+
 
 ## 🔧 Tech Stack
 
 <div align="center">
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=1a1b26)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white\&labelColor=1a1b26)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=1a1b26)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white\&labelColor=1a1b26)
+### 🖥️ Languages  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 
+---
 
-**Web & Cloud**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white\&labelColor=1a1b26)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white\&labelColor=1a1b26)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white\&labelColor=1a1b26)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=1a1b26)
-![Linode](https://img.shields.io/badge/-Linode-00A95C?style=for-the-badge\&logo=linode\&logoColor=white\&labelColor=1a1b26)
+### 🌐 Web & Cloud  
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" alt="Linode"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=1a1b26)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white\&labelColor=1a1b26)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white\&labelColor=1a1b26)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white\&labelColor=1a1b26)
+---
+
+### 🛠️ Tools & Platforms  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
+---
+
+### ⚙️ Hardware & IoT  
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
 
 </div>
 
@@ -63,10 +87,15 @@ class Developer:
 
 <div align="center">
 
-![Tokyo Night Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pepperjack-svg\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=1a1b26\&title_color=7aa2f7\&text_color=9ece6a\&icon_color=bb9af7)
+### 🚀 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=pepperjack-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=9ece6a&icon_color=bb9af7" alt="GitHub Stats" />
 
-![Tokyo Night GitHub Stats](https://github-readme-stats.vercel.app/api?username=pepperjack-svg\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=1a1b26\&title_color=7aa2f7\&text_color=9ece6a\&icon_color=bb9af7)
+### 📈 Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepperjack-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=9ece6a&icon_color=bb9af7" alt="Top Languages" />
 
-![Tokyo Night Streak](https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg\&theme=tokyonight\&hide_border=true\&background=1A1B26\&stroke=BB9AF7\&ring=7AA2F7\&fire=9ECE6A\&currStreakNum=7DCFFF)
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pepperjack-svg&theme=tokyonight&hide_border=true&background=1A1B26&stroke=BB9AF7&ring=7AA2F7&fire=9ECE6A&currStreakNum=7DCFFF&sideNums=7dcfff&sideLabels=bb9af7&dates=9ece6a" alt="GitHub Streak Stats" />
 
 </div>
+
+
