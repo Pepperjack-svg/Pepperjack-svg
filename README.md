@@ -40,18 +40,18 @@ class Developer:
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white\&labelColor=1a1b26)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black\&labelColor=1a1b26)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white\&labelColor=1a1b26)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white\&labelColor=1a1b26)
+
 
 **Web & Cloud**
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white\&labelColor=1a1b26)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white\&labelColor=1a1b26)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white\&labelColor=1a1b26)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=1a1b26)
 ![Linode](https://img.shields.io/badge/-Linode-00A95C?style=for-the-badge\&logo=linode\&logoColor=white\&labelColor=1a1b26)
 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=1a1b26)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white\&labelColor=1a1b26)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=1a1b26)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white\&labelColor=1a1b26)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white\&labelColor=1a1b26)
 
